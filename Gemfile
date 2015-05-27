@@ -12,6 +12,8 @@ gem 'rake'
 
 gem 'thin'
 
+gem 'twitter'
+
 group :test do
   gem 'shoulda-matchers'
   gem 'rack-test'
