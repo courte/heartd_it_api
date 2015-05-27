@@ -16,7 +16,7 @@ group :test do
   gem 'shoulda-matchers'
   gem 'rack-test'
   gem 'rspec', '~> 3.0'
-  gem 'capybara'
+  gem 'capybara', '>=2.3'
   gem 'database_cleaner'
 end
 
